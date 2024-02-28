@@ -65,7 +65,7 @@ Within Discord:
     ```
     /chat [prompt]
     ```
- -  Type the following command, followed by your prompt
+ -  Example Command
     ```
     /chat Please generate a Python script that simplifies ratios. 
     ```
@@ -73,6 +73,8 @@ Within Discord:
 <p align="center">
   <img src="output-ex-1.png">
 </p>
+##
+
 #### Check out my other projects:
  - [DiscordGPT](https://github.com/byestumpy/DiscordGPT) - A Discord based ChatGPT (Without censorship)
 
@@ -80,7 +82,4 @@ Within Discord:
 ***This tool is developed for educational purposes. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of IcePick!***
 
 ### This repository is open source to help others. So if you wish to copy, consider giving credit!
-
-## Credits:
-None. I did this all myself mf. - Stumpy
 
