@@ -39,7 +39,7 @@
     ```
     pkg install git python3  -y
     ```
-##### Install IcePick
+##### Download Project
  -  Clone this repository
     ```
     git clone https://github.com/jhockersmith/Discord-Gemini-AI
@@ -59,9 +59,20 @@
     ```
     python main.py
     ```
-
-
-
+##### Using the AI
+Within Discord:
+ -  Type the following command, followed by your prompt
+    ```
+    /chat [prompt]
+    ```
+ -  Type the following command, followed by your prompt
+    ```
+    /chat Please generate a Python script that simplifies ratios. 
+    ```
+    Example Output:
+<p align="center">
+  <img src="output-ex-1.png">
+</p>
 #### Check out my other projects:
  - [DiscordGPT](https://github.com/byestumpy/DiscordGPT) - A Discord based ChatGPT (Without censorship)
 
