@@ -73,13 +73,13 @@ Within Discord:
 <p align="center">
   <img src="output-ex-1.png">
 </p>
-##
+
 
 #### Check out my other projects:
  - [DiscordGPT](https://github.com/byestumpy/DiscordGPT) - A Discord based ChatGPT (Without censorship)
 
 ## Disclaimer
-***This tool is developed for educational purposes. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of IcePick!***
+***This tool is developed for educational purposes. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of the project!***
 
 ### This repository is open source to help others. So if you wish to copy, consider giving credit!
 
