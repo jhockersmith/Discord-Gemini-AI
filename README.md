@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/uYKRyvz.png">
+  <img src="https://i.imgur.com/9xnQJsK.png">
 </p>
 
 <p align="center">
@@ -13,14 +13,14 @@
 </a>
 </p>
 
-<p align="center"><b>An all-in-one Python-based hacking Swiss Army knife.</b></p>
+<p align="center"><b>Discord based AI chat environment using the Gemini 1.0 AI by Google.</b></p>
 
 ##
 
 ### Features:
 
- - Discord Keylogger
- - ReverseShell Script
+ - Latest Discord Bot Command System
+ - Gemini 1.0 AI Model
 
 #### Tested on
  - `Termux`
@@ -42,12 +42,12 @@
 ##### Install IcePick
  -  Clone this repository
     ```
-    git clone https://github.com/byestumpy/IcePick.git
+    git clone https://github.com/jhockersmith/Discord-Gemini-AI
     ```
 
  - Enter the directory
     ```
-    cd IcePick
+    cd Discord-Gemini-AI
     ```
 
  -  Install all modules
@@ -57,7 +57,7 @@
 
  -  Run the tool
     ```
-    python icepick.py
+    python main.py
     ```
 
 
