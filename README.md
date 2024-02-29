@@ -76,10 +76,10 @@ Within Discord:
 
 
 #### Check out my other projects:
- - [DiscordGPT](https://github.com/byestumpy/DiscordGPT) - A Discord based ChatGPT (Without censorship)
+ - [GPT-Jarvis](https://github.com/jhockersmith/GPT-Jarvis) - A real-life JARVIS using the OpenAI Whisper, Audio, and GPT 3.5 Turbo APIs
 
 ## Disclaimer
-***This tool is developed for educational purposes. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of the project!***
+***This tool is developed for educational purposes. You have your own responsibilities and you are liable for any damage or violation of laws by this tool. The author is not responsible for any misuse of the project!***
 
 ### This repository is open source to help others. So if you wish to copy, consider giving credit!
 
